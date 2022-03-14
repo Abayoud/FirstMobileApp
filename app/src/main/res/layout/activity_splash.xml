@@ -18,20 +18,20 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
-        android:text="Pizza Recipes"
+        android:text="Famous Pizza Recipes"
         android:textColor="@color/white"
-        android:textSize="30sp"
-        android:layout_gravity="center_horizontal"/>
+        android:textSize="30sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
-        android:text="Make your pizza"
+        android:text="Make your own PIZZA"
         android:textColor="@color/white"
-        android:textSize="20sp"
-        android:layout_gravity="center_horizontal"/>
+        android:textSize="20sp" />
 
     <ProgressBar
         android:layout_width="83dp"
